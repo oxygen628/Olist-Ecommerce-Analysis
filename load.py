@@ -5,9 +5,8 @@ import os
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CLEAN_DIR = os.path.join(BASE_DIR, "clean")
 
-# 改成你的 MySQL 密码
 engine = create_engine(
-    "mysql+pymysql://root:han6533ge@localhost:3306/olist_analysis?charset=utf8mb4"
+    "mysql+pymysql://root:xxxxxxxx@localhost:3306/olist_analysis?charset=utf8mb4"
 )
 
 files = {
