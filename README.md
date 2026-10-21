@@ -27,7 +27,7 @@
 ##  看板预览
 
 ### 1. 核心经营大盘
-![核心经营大盘]()
+![核心经营大盘](https://github.com/oxygen628/Olist-Ecommerce-Analysis/blob/main/dashboard_overview.png)
 
 ### 2. 履约诊断与卖家红黑榜
 ![履约诊断]()
