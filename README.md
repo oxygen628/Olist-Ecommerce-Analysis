@@ -30,7 +30,7 @@
 ![核心经营大盘](https://github.com/oxygen628/Olist-Ecommerce-Analysis/blob/main/dashboard_overview.png)
 
 ### 2. 履约诊断与卖家红黑榜
-![履约诊断]<img width="867" height="491" alt="dashboard_funnel" src="https://github.com/user-attachments/assets/50462cbe-ebac-4915-9f7d-71de028c1737" />
+![履约诊断](https://github.com/oxygen628/Olist-Ecommerce-Analysis/blob/main/dashboard_funnel.png?raw=true)
 
 
 ### 3. 支付与区域洞察
