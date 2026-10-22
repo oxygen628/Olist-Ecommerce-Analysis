@@ -34,5 +34,4 @@
 
 
 ### 3. 支付与区域洞察
-![支付与区域]<img width="845" height="491" alt="dashboard_payment" src="https://github.com/user-attachments/assets/46d020d3-c04b-4a0c-878f-dc4822435221" />
-
+![支付与区域](https://github.com/oxygen628/Olist-Ecommerce-Analysis/blob/main/dashboard_payment.png?raw=true)
